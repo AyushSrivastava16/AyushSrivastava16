@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A beginner trying to become expert.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsrivastava16&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsrivastava16" /> </p>
-
 - 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Python, Mysql**
