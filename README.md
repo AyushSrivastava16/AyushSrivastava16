@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A beginner trying to become expert.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush16kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ayush16kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsrivastava16&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsrivastava16" /> </p>
 
 - 🌱 I’m currently learning **C**
 
@@ -19,8 +19,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush16kumar&show_icons=true&locale=en&layout=compact" alt="ayush16kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsrivastava16&show_icons=true&locale=en&layout=compact" alt="ayushsrivastava16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush16kumar&show_icons=true&locale=en" alt="ayush16kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava16&show_icons=true&locale=en" alt="ayushsrivastava16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush16kumar&" alt="ayush16kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava16&" alt="ayushsrivastava16" /></p>
+
