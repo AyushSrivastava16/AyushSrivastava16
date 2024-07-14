@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A beginner trying to become expert.</h3>
+<h3 align="center">A beginner trying to be expert.</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **srivastava16ayush@gmail.com**
 
-- ⚡ Fun fact **Wandering Maniac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
