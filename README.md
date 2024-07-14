@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/u/srivastava_ayush/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRFQOY55ILUfxAMD-QQE_nRFL7wSlIX_RJQ&s" alt="srivastava16ayu1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/srivastava_ayush/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="srivastava16ayu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
