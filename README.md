@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A beginner trying to become expert.</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Python, Mysql**
+- 💬 Ask me about **Python, Mysql, HTML, CSS, JavaScript, React js, C++, C**
 
 - 📫 How to reach me **srivastava16ayush@gmail.com**
 
-- ⚡ Fun fact **I think I can join Google.**
+- ⚡ Fun fact **Wandering Maniac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
