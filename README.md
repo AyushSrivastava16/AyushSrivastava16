@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A beginner trying to be expert.</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently exploring **DevOps**
 
-- 💬 Ask me about **Python, Mysql, HTML, CSS, JavaScript, React js, C++, C**
+- 💬 Ask me about **Python, Mysql, HTML, CSS, JavaScript, React js, C++, C, Node.js**
 
 - 📫 How to reach me **srivastava16ayush@gmail.com**
 
